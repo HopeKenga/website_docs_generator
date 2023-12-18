@@ -14,7 +14,7 @@ The tool consists of three main components:
 
 ## Installation
 
-1. Clone the repository: `git clone <https://github.com/HopeKenga/website_docs_generator.git>`
+1. Clone the repository: `git clone https://github.com/HopeKenga/website_docs_generator.git`
 2. Navigate to the project directory: `cd documentation_gen`
 3. Install the dependencies: `pip install -r requirements.txt`
 
